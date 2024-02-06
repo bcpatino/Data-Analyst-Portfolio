@@ -17,6 +17,7 @@
 ### Project Overview
 
 This project aims to identify the factors that define the employee salaries based on the given dataset.
+![Salary_Analysis_Dashboard](https://github.com/bcpatino/Data-Analyst-Portfolio/assets/159120303/5982a27a-81ee-4e73-b1d4-ba91f1e93313)
 
 ### Data Sources
 
